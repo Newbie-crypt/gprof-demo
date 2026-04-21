@@ -1,0 +1,1 @@
+According to the profile provided by gprof, each function was called 5 times, and each function took negligible time to execute
